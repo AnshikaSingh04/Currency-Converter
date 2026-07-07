@@ -42,5 +42,5 @@ Currency-Converter/
 
 ## Author
 
-**Anshika Singh Bishen**
+**Anshika Singh**
 
